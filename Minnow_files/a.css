@@ -3246,6 +3246,10 @@ object {
 		font-size: 24px;
 		font-size: 2.4rem;
 	}
+#nav
+{
+	position: fixed;
+}
 	#Nav
 	{
 		position:fixed;
@@ -3263,14 +3267,16 @@ object {
 		font-size: 385%;
 	}
 }
-.yang {
+#yang {
 
 	float: right;
-	backface-visibility: visible;
-	background-color: #F0FFFF;
+	background-color: white;
+	opacity: 75%;
+	color: white;
 	position: fixed;
 	border-radius: 10px;
 	margin-left: 76%;
+	margin-top: 15%;
 	padding-left: 100px;
 	padding-right: 100px;
 
