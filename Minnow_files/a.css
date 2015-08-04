@@ -3252,6 +3252,23 @@ object {
 		top:0;
 		z-index:100;
 		width:100%;
-		background-attachment:fixed; 
+		background-attachment:fixed;
 	}
+}
+.yang {
+
+	float: right;
+	backface-visibility: visible;
+	background-color: #F0FFFF;
+	position: fixed;
+	border-radius: 10px;
+	margin-left: 76%;
+	padding-left: 100px;
+	padding-right: 100px;
+
+
+}
+
+header {
+	
 }
