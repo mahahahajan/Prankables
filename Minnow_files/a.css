@@ -3252,15 +3252,6 @@ object {
 		top:0;
 		z-index:100;
 		width:100%;
-		background-attachment:fixed; 
+		background-attachment:fixed;
 	}
 }
-
-	 .yang {
-		 position: fixed;
-		 background-color: blue;
-		 border-radius: 10px;
-		 opacity: 100%;
-		 z-index: fixed;
-		 
-	 }
