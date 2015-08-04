@@ -3253,6 +3253,14 @@ object {
 		z-index:100;
 		width:100%;
 		background-attachment:fixed;
+		color: white;
+		background-color: grey;
+		opacity: 75%;
+		height: 13vh;
+		text-align: center;
+		font-family: monospace;
+		font-weight: bold;
+		font-size: 385%;
 	}
 }
 .yang {
@@ -3270,5 +3278,5 @@ object {
 }
 
 header {
-	
+
 }
