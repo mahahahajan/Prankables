@@ -3259,7 +3259,7 @@ object {
 
 	float: right;
 	backface-visibility: visible;
-	background-color: pink;
+	background-color: #F0FFFF;
 	position: fixed;
 	border-radius: 10px;
 	margin-left: 76%;
